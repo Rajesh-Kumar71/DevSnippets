@@ -10,7 +10,7 @@ Built for the Mobile Development Cohort 2026 peer review assignment.
 
 | Home | Snippet Details01 | Snippet Details02 |AI Explanation |
 |---|---|---|---|
-| ![Home](screenshots/01-home.png) | ![Details](screenshots/02-snippet-details01.png) | ![Details](screenshots/03-snippet-details01.png) | ![AI](screenshots/04-AI-Explanation.png) |
+| ![Home](screenshots/01-home.png) | ![Details](screenshots/02-snippet-details01.png) | ![Details](screenshots/03-snippet-details02.png) | ![AI](screenshots/04-AI-Explanation.png) |
 
 | Favorites | File Manager | Settings | Create Snippet |
 |---|---|---|---|
